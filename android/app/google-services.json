@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "105661377937",
+    "firebase_url": "https://greenhouse2-bc0e9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "greenhouse2-bc0e9",
+    "storage_bucket": "greenhouse2-bc0e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105661377937:android:d3e5ce0af9da1c41033e30",
+        "android_client_info": {
+          "package_name": "com.example.greenhouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOoVJt-gg-6PZibmHBlhw_o4HfzbUSZpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105661377937:android:9f5526118f2b4a87033e30",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOoVJt-gg-6PZibmHBlhw_o4HfzbUSZpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
